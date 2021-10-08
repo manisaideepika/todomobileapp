@@ -52,6 +52,12 @@ a{
     color: orangered;
     text-align: center;
 }
+.tet3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: orangered;
+    text-align: center;
+}
 .text3{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
@@ -220,9 +226,23 @@ button{
         justify-content: space-evenly;
         margin-top: 61px;
     }
-    .txt3{
-        color: rgb(99, 96, 96);;
+
+    .text3{
+        text-align: left;
     }
+    .tet3{
+        text-align: center;
+    }
+
+    .txt3{
+        color: rgb(99, 96, 96);
+        text-align: left;
+    }
+    .file{
+        color: rgb(99, 96, 96);
+        text-align: left;
+    }
+    
     .text8{
         display: none;
     }
