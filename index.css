@@ -27,20 +27,21 @@ body{
 }
 .place{
     display: flex;
-    /* flex-direction: column; */
     flex-wrap: wrap;
+    
     align-items: center;
+    justify-content: center;
 }
 
 .box{
     border: 1px solid rgb(243, 202, 202);
     border-radius: 10px;
     position: center;
-    width: 200px;
-    height: 265px;
+    width: 250px;
+    height: 350px;
     padding: 20px;
     box-shadow: 5px 5px 10px rgb(207, 205, 205);
-    margin: 40px 5px 5px 5px;
+    margin: 40px 30px 30px 30px;
     text-align: left;
 }
 a{
